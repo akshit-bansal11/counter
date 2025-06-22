@@ -1,0 +1,4 @@
+/* Global stylesheet entry point */
+@import "tailwindcss";
+
+/* Ensures Tailwind CSS utilities are available application-wide
